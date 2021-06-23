@@ -1,0 +1,323 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Navbar-background {
+    background-color: #52504b;
+}
+
+.Navbar-icon {
+    font-size: 23px;
+    font-weight: 600;
+    border-width: 2px;
+    border-color: #4b6cc1;
+    border-style: solid;
+    padding-right: 13px;
+    padding-left: 13px;
+
+
+}
+
+#Navbar-text1 {
+    color: white;
+    font-size: 15px;
+}
+
+#Navbar-text2 {
+    color: white;
+    font-size: 15px;
+}
+
+#Navbar-text3 {
+    color: white;
+    font-size: 15px;
+}
+
+#Navbar-text4 {
+    color: white;
+    font-size: 15px;
+}
+
+#Navbar-text5 {
+    color: white;
+    font-size: 15px;
+}
+
+.Portfolio-Banner-Section {
+    background-color: #191a1d;
+    height: 125vh;
+}
+
+.Portfolio-Banner-Section-heading {
+    color: white;
+    font-size: 45px;
+}
+
+.Portfolio-Banner-Section-Jenny {
+    color: #4b6cc1;
+}
+
+.Portfolio-Banner-Section-description {
+    color: #9aa5b1;
+    font-size: 25px;
+}
+
+.Portfolio-Banner-Section-button {
+    background-color: #4b6cc1;
+    color: white;
+    border-width: 0px;
+    border-radius: 8px;
+    font-size: 15px;
+    height: 45px;
+    width: 125px;
+}
+
+.Portfolio-Banner-Section-image {
+    height: 290px;
+    margin-bottom: 10px;
+}
+
+.About-Me-Section {
+    background-color: #322f4b;
+}
+
+.About-Me-Section-sub-heading {
+    color: #cced00;
+    font-size: 19px;
+    font-weight: 600;
+    font-family: Roboto;
+}
+
+.About-Me-Section-heading {
+    color: white;
+    font-size: 36px;
+    font-weight: 600;
+    font-family: Roboto;
+}
+
+.About-Me-Section-image {
+    height: 290px;
+}
+
+.About-Me-Section-description {
+    color: #9aa5b1;
+    font-size: 15px;
+}
+
+.About-Me-Skills-Section {
+    background-color: #1f2933;
+}
+
+.About-Me-Skills-card-Section {
+    background-color: #323f4b;
+    padding-top: 15px;
+    padding-bottom: 1px;
+    border-radius: 8px;
+}
+
+.About-Me-Skills-card-image-Section {
+    height: 64px;
+    width: 64px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+.About-Me-Skills-card-description-Section {
+    color: white;
+    font-size: 22px;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+.Portfolio-Projects-I-Have-done-section {
+    background-color: #3e4c59;
+}
+.Portfolio-Projects-I-Have-done-section-image {
+    height: 50vh;
+}
+
+.Portfolio-Projects-I-Have-done-section-heading {
+    color: #cced00;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+.Portfolio-Projects-I-Have-done-section-sub-heading {
+    color: white;
+    font-size: 33px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.Portfolio-Projects-I-Have-done-card-section {
+    background-color: #323f4b;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.Portfolio-Projects-I-Have-done-section-Web-design {
+    color: #9aa5b1;
+    font-size: 13px;
+    font-family: Roboto;
+}
+
+.Portfolio-Projects-I-Have-done-section-Hotel-Heading {
+    color: white;
+    font-size: 24px;
+    font-family: Roboto;
+}
+
+.Portfolio-Projects-I-Have-done-section-Hotel-description {
+    color: #9aa5b1;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: 500;
+}
+
+.Portfolio-Projects-I-Have-done-section-Read-More {
+    color: #cced00;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: Roboto;
+}
+
+.Portfolio-Services-Section {
+    background-color: #52606d;
+}
+
+.Portfolio-Services-Section-heading {
+    color: #cced00;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+.Portfolio-Services-Section-sub-heading {
+    color: white;
+    font-size: 35px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.Portfolio-Services-Section-card {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.Portfolio-Services-Section-card-image {
+    height: 47px;
+    width: 47px;
+}
+
+.Portfolio-Services-Section-card-heading {
+    color: white;
+    font-size: 23px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.Portfolio-Services-Section-card-description {
+    color: #9aa5b1;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: 500;
+}
+
+.Portfolio-WorkDone-Section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    height: 45vh;
+    background-size: cover;
+}
+
+.Portfolio-WorkDone-Section-Underline {
+    background-color: white;
+    width: 36px;
+    margin-bottom: 8px;
+}
+
+.Portfolio-WorkDone-Section-Number {
+    color: white;
+    font-size: 22px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.Portfolio-WorkDone-Section-description {
+    color: white;
+    font-size: 10px;
+}
+
+.Portfolio-Testimonials-Section {
+    background-color: #1f2933;
+}
+
+.Portfolio-Testimonials-Section-heading {
+    color: #cced00;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+.Portfolio-Testimonials-Section-sub-heading {
+    color: white;
+    font-size: 35px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.Portfolio-Testimonials-Section-slides {
+    background-color: #323f4b;
+}
+
+.Portfolio-Testimonials-Section-slide-image {
+    height: 110px;
+    width: 110px;
+    border-radius: 50px;
+    margin-bottom: 3px;
+}
+
+.Portfolio-Testimonials-Section-description {
+    color: #9aa5b1;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: 500;
+}
+
+.Portfolio-Testimonials-Section-name {
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 500;
+}
+
+.Portfolio-Footer-Section {
+    background-color: #0d2436;
+}
+
+.Portfolio-Footer-Section-image {
+    height: 58px;
+    width: 58px;
+    border-radius: 60px;
+}
+
+.Portfolio-Footer-Section-Name {
+    color: #cced00;
+    font-size: 19px;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+.Portfolio-Footer-Section-description {
+    color: #9aa5b1;
+    font-size: 14px;
+    margin-top: 9px;
+}
+
+.icon {
+    color: #5a7184;
+    margin-top: 10px;
+}
+
+.Portfolio-Footer-Section2 {
+    background-color: #001c32;
+    padding: 10px;
+}
